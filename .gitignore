@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# local directories of modules
+announcements/
+
+# new relic config file
+newrelic.js
